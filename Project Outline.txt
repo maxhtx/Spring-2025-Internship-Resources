@@ -1,0 +1,7 @@
+
+1. Investment Thesis
+2. Indices we want to track ( Which ones to use?)
+3. Robust Portfolio Optimization method.
+4. Evaluation Methods / Monte Carlo Simulation?
+5. Conclusion
+
